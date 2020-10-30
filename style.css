@@ -1,0 +1,25 @@
+.heading
+{
+background-color: aquamarine;color: blueviolet;box-shadow: 10px 10px 20px red;font-family: franklin Gothic Medium;
+width: 100%;font-size: 25px;font-weight: bold;
+}
+.heading_div
+{
+float: none;
+}
+.footer_div
+{
+position: fixed;font-weight: bold;color: wheat;background-color: darkblue;bottom: 0;width: 100%;text-align: center;
+}
+canvas
+{
+border: 5px solid green;margin-top: 80px;
+}
+.result_para_tag
+{
+font-size: 25px;
+}
+.result_para_tag span
+{
+white-space: pre-line;
+}
